@@ -4,5 +4,6 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("hello,git");
         System.out.println("你吃屎");
+        System.out.println("香不香?");
     }
 }
